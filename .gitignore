@@ -1,0 +1,34 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.*
+
+# Models
+models/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Hugging Face caches
+.cache/
+huggingface/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
