@@ -32,3 +32,10 @@ huggingface/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Config
+*.local.config
+
+# Backups
+*.bak
+*.old
